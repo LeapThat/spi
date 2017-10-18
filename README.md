@@ -8,3 +8,8 @@ Web crawler - For using a website as a content source the user will have to copy
 Automation - In order to prevent any user choices or other features damaging PSI rank we’ve developd the following automations:
 Application side- LeapThat application engine has many analysis and identification scripts that rearrange the data given based on font size, location, keywords and many more.
 External analysis tools- LeapThat application uses Google and Amazon services in order to analyse user content, label it. This services analyse images and texts and the LeapThat algorithm uses those in order to better understand user content type, atmosphere and purpose. This allows a PSI free design process so the end result will be as close to user intent as possible and require the user no further alterations.
+
+Try!
+
+http://leapthat.com/
+
